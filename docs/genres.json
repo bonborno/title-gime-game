@@ -1,0 +1,42 @@
+[
+  {
+    "name": "映画",
+    "filename": "movies.json",
+    "work_label": "映画タイトル",
+    "description": "映画のタイトルを作ります。王道も珍作も自由にどうぞ。",
+    "vote_criterion": "一番いいと思う映画タイトルを選んでください。",
+    "dark": false
+  },
+  {
+    "name": "バズるYouTubeタイトル",
+    "filename": "youtube.json",
+    "work_label": "動画タイトル",
+    "description": "誇張や煽りを混ぜて、思わずクリックしたくなる動画タイトルを作ります。",
+    "vote_criterion": "一番クリックしたくなる動画タイトルを選んでください。",
+    "dark": false
+  },
+  {
+    "name": "旧Twitterクソリプ",
+    "filename": "replies.json",
+    "work_label": "返信文",
+    "description": "ウザい、的外れ、上から目線な返信文を作ります。返信先のお題はありません。",
+    "vote_criterion": "一番ウザくて笑える返信を選んでください。",
+    "dark": false
+  },
+  {
+    "name": "スピ・陰謀論",
+    "filename": "spiritual.json",
+    "work_label": "見出し・一言",
+    "description": "スピ・陰謀論のパロディとして、架空で怪しく壮大な見出し・一言を作ります。",
+    "vote_criterion": "一番それっぽくてバカバカしい見出し・一言を選んでください。",
+    "dark": false
+  },
+  {
+    "name": "ダークモード",
+    "filename": "dark_mode.json",
+    "work_label": "パロディタイトル",
+    "description": "意味深な言葉とバカバカしい素材で、深夜ノリのパロディタイトルを作ります。",
+    "vote_criterion": "一番意味深でバカバカしいパロディタイトルを選んでください。",
+    "dark": true
+  }
+]
